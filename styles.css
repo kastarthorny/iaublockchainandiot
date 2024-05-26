@@ -1,0 +1,77 @@
+.container {
+    width:100%;
+    overflow:hidden;
+    margin-bottom:20px;
+}
+
+
+.image {
+
+    float:left;
+    margin-right: 20px;
+}
+
+
+
+.baslik {
+   font-style: italic;
+   font-size:xx-large;
+   color: #1f3f7c;
+}
+
+
+.text {
+    font-size: large;
+    
+}
+
+
+button {
+    background-color: #f6941e;
+    border: 10;
+    color: white;
+    padding: 15px 32px;
+    text-align:center;
+    font-size: 16px;
+    margin:4px 2px;
+    border-radius:20px;
+
+}
+
+button:hover{
+    background-color: #1f3f7c;
+}
+
+
+.custom-hr {
+    width: 50%;
+    margin: 1;
+    border: 10px solid #f6941e;
+    
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #f6941e;
+}
+.navbar a {
+    float:left;
+    display:block;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    padding: 20px 100px;
+    text-decoration:none;
+    font-size:larger
+}
+
+.navbar a:hover {
+    background-color: #1f3f7c;
+ 
+}
+
+h1{
+    font-style: italic;
+   font-size:xx-large;
+   color: #1f3f7c;
+   padding-left:425px;
+}
